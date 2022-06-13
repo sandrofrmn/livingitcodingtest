@@ -1,0 +1,15 @@
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.AssemblyInfoInputs.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.AssemblyInfo.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.RazorComponent.input.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankAPI\obj\Debug\net5.0\BankClient.RazorComponent.output.cache

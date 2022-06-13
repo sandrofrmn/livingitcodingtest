@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\imsan\source\repos\BankAPI_Solution\BankClient\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\imsan\source\repos\BankAPI_Solution\BankClient\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

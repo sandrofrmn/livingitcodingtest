@@ -1,0 +1,7 @@
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\bin\Release\TextProcessor.exe.config
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\bin\Release\TextProcessor.exe
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\bin\Release\TextProcessor.pdb
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\obj\Release\TextProcessor.csprojAssemblyReference.cache
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\obj\Release\TextProcessor.csproj.CoreCompileInputs.cache
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\obj\Release\TextProcessor.exe
+C:\Users\imsan\source\repos\TextProcessor_Solution\TextProcessor\obj\Release\TextProcessor.pdb

@@ -1,0 +1,68 @@
+﻿@page "/transactions"
+
+<h3>Transactions</h3>
+
+<EditForm EditContext="editContext">
+    <div>
+        <label for="AccountNumber">Account Number</label>
+        <InputText id="AccountNumber" @bind-Value="transactionModel.AccountNumber"></InputText>
+        <ValidationMessage For="() => transactionModel.AccountNumber"/>
+    </div>
+    <div>
+        <label for="StartBalance">Start Balance</label>
+        <InputNumber id="StartBalance" @bind-Value="transactionModel.StartBalance"></InputNumber>
+        <ValidationMessage For="() => transactionModel.StartBalance"/>
+    </div>
+    <div>
+        <label for="AccountNumber">Mutation</label>
+        <InputNumber id="Mutation" @bind-Value="transactionModel.Mutation"></InputNumber>
+        <ValidationMessage For="() => transactionModel.Mutation"/>
+    </div>
+    <div>
+        <label for="Description">Description</label>
+        <InputText id="Description" @bind-Value="transactionModel.Description"></InputText>
+        <ValidationMessage For="() => transactionModel.Description"/>
+    </div>  
+</EditForm>
+
+<button @onclick="SubmitTransactionIfValid">Submit Transaction</button>
+
+@code {
+    private List<Transaction> transactions;
+    private EditContext editContext;
+
+    private TransactionModel transactionModel;
+
+    //protected override Task OnInitializedAsync()
+    //{
+    //    try
+    //    {
+    //        editContext = new EditContext(transactionModel);
+    //    }
+    //    catch (Exception ex)
+    //    {
+    //        ex.Message.ToString();
+    //    }
+    //}
+
+    private async Task SubmitTransactionIfValid()
+    {
+        if (editContext.Validate())
+        {
+            await SubmitTransaction();
+        }
+    }
+
+    private async Task SubmitTransaction()
+    {
+        try
+        {
+            Transaction transaction = transactionModel.GetTransaction();
+            //transaction = await Interactor.WriteTransaction(transaction);
+        }
+        catch (Exception ex)
+        {
+            ex.Message.ToString();
+        }
+    }
+}

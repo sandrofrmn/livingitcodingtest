@@ -1,0 +1,12 @@
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\refint\BankLibrary.dll
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
+C:\Users\imsan\source\repos\BankAPI_Solution\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll

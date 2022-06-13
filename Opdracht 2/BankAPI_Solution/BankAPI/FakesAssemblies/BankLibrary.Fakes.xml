@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BankLibrary.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:BankLibrary.Fakes.ShimTransaction">
+            <summary>Shim type of BankLibrary.Transaction</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.ShimTransaction.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.ShimTransaction.#ctor(BankLibrary.Transaction)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:BankLibrary.Fakes.ShimTransaction.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.ShimTransaction.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.ShimTransaction.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BankLibrary.Fakes.ShimTransaction.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BankLibrary.Fakes.ShimTransaction.Constructor">
+            <summary>Sets the Shim of Transaction.Transaction(Transaction this)</summary>
+        </member>
+        <member name="T:BankLibrary.Fakes.StubTransaction">
+            <summary>Stub type of BankLibrary.Transaction</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.StubTransaction.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:BankLibrary.Fakes.StubTransaction.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:BankLibrary.Fakes.StubTransaction.InitializeStub">
+            <summary>Initializes a new instance of type StubTransaction</summary>
+        </member>
+        <member name="P:BankLibrary.Fakes.StubTransaction.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BankLibrary.Fakes.StubTransaction.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
